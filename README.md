@@ -1,7 +1,10 @@
 # Gallium
-Gallium is a keyboard layout and takes inspiration from nerps and tries to improve on it in comfort.
+Gallium is a keyboard layout and takes inspiration from nerps and tries to improve on it in comfort and speed.
 
 ![gallium](https://user-images.githubusercontent.com/105921721/226998970-72aa1bd3-ce83-43c3-aeef-cf7b407babf4.png)
+Angle Mod version of Gallium:
+![gallium_angle](https://user-images.githubusercontent.com/105921721/227010122-c383b1ad-45f4-44e0-b9c9-98769a084210.png)
+
 
 ## Operating systems
 Windows, Mac and Linux are supported with their own packages and can be found in the releases section on the sidebar. (Windows package made by CTGAP, Mac package made by Dainternetdude and Linux XKB file made by GalileoBlues.)
