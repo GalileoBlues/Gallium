@@ -3,7 +3,8 @@ Gallium is a keyboard layout and takes inspiration from nerps and tries to impro
 
 ![gallium](https://user-images.githubusercontent.com/105921721/226998970-72aa1bd3-ce83-43c3-aeef-cf7b407babf4.png)
 Angle Mod version of Gallium:
-![gallium_angle](https://user-images.githubusercontent.com/105921721/227010122-c383b1ad-45f4-44e0-b9c9-98769a084210.png)
+![gallium_angle](https://user-images.githubusercontent.com/105921721/227011083-359db383-57e0-4abc-8fa9-2857a4501258.png)
+
 
 
 ## Operating systems
