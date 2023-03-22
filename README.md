@@ -25,7 +25,7 @@ The threshold for this form to adapt seems to be 2% movement on the primary fing
 Based on these ideas Gallium tries to hit the maximum threshold that the pinkies can handle without giving up this possible advantage.
 
 ## Weaknesses
-Gallium's performance in speed is dependant on a corpus of words just like every other alternative layout is, Gallium does particularly poorly at much more complex words such as Monkeytype's 450k wordlist setting but still does fine at 10k and below. the way it is worse is in SFBs as `HY`, `PY`, `PH` and `PF` bigrams occur much more commonly in that wordlist one way to combat this is to alt finger them like spoken about previously.
+Gallium's performance in speed is dependant on a corpus of words just like every other alternative layout is, Gallium does particularly poorly at much more complex words such as Monkeytype's 450k wordlist setting but still does fine at 10k and below. the way it is worse is in SFBs as `HY`, `PY`, `PH` and `PF` bigrams occur much more commonly in that wordlist, one way to combat this is to alt finger them like spoken about previously.
 
 Made by Smudge:
 ![nerps](https://user-images.githubusercontent.com/105921721/226997711-cf47a89c-a350-4d1a-b4e5-18cd2985812c.png)
