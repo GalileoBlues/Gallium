@@ -10,6 +10,8 @@ Angle Mod version of Gallium:
 ## Operating systems
 Windows, Mac and Linux are supported with their own packages. (Windows package made by CTGAP, Mac package made by Dainternetdude and Linux XKB file made by GalileoBlues.)
 
+## Goals
+
 Gallium takes a focus on hand balance and lowering horizontal stretching of the index fingers, this is to try to enhance the comfort at higher speeds when it feels like one hand is fatiguing faster than the other and prematurely stops practice.
 
 Gallium improves on Nerps by removing notable alt fingerings (using non-traditional fingers such as pressing `P` with middle finger and `S` with index on nerps). It also adopts a different vowel block that distributes the usage load between fingers more efficiently and lowers Same Finger Bigrams (SFBs).
