@@ -1,0 +1,39 @@
+
+default partial
+xkb_symbols "basic" {
+    include "us(basic)"
+
+    name[Group1] = "Gallium";
+
+    key <AD01> {[ b, B ]};
+    key <AD02> {[ l, L ]};
+    key <AD03> {[ d, D ]};
+    key <AD04> {[ c, C ]};
+    key <AD05> {[ j, J ]};
+    key <AD06> {[ z, Z ]};
+    key <AD07> {[ y, Y ]};
+    key <AD08> {[ o, O ]};
+    key <AD09> {[ u, U ]};
+    key <AD10> {[ comma, less ]};
+    key <AC01> {[ n, N ]};
+    key <AC02> {[ r, R ]};
+    key <AC03> {[ t, T ]};
+    key <AC04> {[ s, S ]};
+    key <AC05> {[ v, V ]};
+    key <AC06> {[ p, P ]};
+    key <AC07> {[ h, H ]};
+    key <AC08> {[ a, A ]};
+    key <AC09> {[ e, E ]};
+    key <AC10> {[ i, I ]};
+    key <AC11> {[ slash, question ]};
+    key <AB01> {[ x, X ]};
+    key <AB02> {[ m, M ]};
+    key <AB03> {[ w, W ]};
+    key <AB04> {[ g, G ]};
+    key <AB05> {[ q, Q ]};
+    key <AB06> {[ k, K ]};
+    key <AB07> {[ f, F ]};
+    key <AB08> {[ apostrophe, quotedbl ]};
+    key <AB09> {[ semicolon, colon ]};
+    key <AB10> {[ period, greater ]};
+};
