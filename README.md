@@ -8,7 +8,7 @@ Angle Mod version of Gallium:
 
 
 ## Operating systems
-Windows, Mac and Linux are supported with their own packages and can be found in the releases section on the sidebar. (Windows package made by CTGAP, Mac package made by Dainternetdude and Linux XKB file made by GalileoBlues.)
+Windows, Mac and Linux are supported with their own packages. (Windows package made by CTGAP, Mac package made by Dainternetdude and Linux XKB file made by GalileoBlues.)
 
 Gallium takes a focus on hand balance and lowering horizontal stretching of the index fingers, this is to try to enhance the comfort at higher speeds when it feels like one hand is fatiguing faster than the other and prematurely stops practice.
 
