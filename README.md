@@ -1,5 +1,5 @@
 # Gallium
-Gallium is a keyboard layout and takes inspiration from nerps and tries to improve on it in comfort and speed.
+Gallium is a keyboard layout and takes inspiration from nerps and tries to improve on it in comfort and speed. Now on Monkeytype! 
 
 ![gallium](https://user-images.githubusercontent.com/105921721/226998970-72aa1bd3-ce83-43c3-aeef-cf7b407babf4.png)
 Angle Mod version of Gallium:
@@ -26,6 +26,10 @@ Based on these ideas Gallium tries to hit the maximum threshold that the pinkies
 
 ## Weaknesses
 Gallium's performance in speed is dependant on a corpus of words just like every other alternative layout is, Gallium does particularly poorly at much more complex words such as Monkeytype's 450k wordlist setting but still does fine at 10k and below. the way it is worse is in SFBs as `HY`, `PY`, `PH` and `PF` bigrams occur much more commonly in that wordlist, one way to combat this is to alt finger them like spoken about previously.
+
+## Etymology 
+
+Gallium was named after the element as are most of my layouts, I typically select a letter the bears importance to the design philosophy try to find a layout that starts with the same letter. G in this case marks the careful balance of the index inner column usage between both hands and how i was determined to get the usage very similar between the hands as i was frustated with layouts that blindly lowered the LSB stat in layout anaylsers (lateral stretch bigrams) without regard for where the locations of those bigrams are and the division of bad patterns like that.
 
 Made by Smudge:
 ![nerps](https://user-images.githubusercontent.com/105921721/226997711-cf47a89c-a350-4d1a-b4e5-18cd2985812c.png)
