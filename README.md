@@ -28,10 +28,16 @@ Gallium was named after the element as are most of my older layouts. G does bear
 
 ## Changes
 Since Gallium has been out there have been some minor changes to the layout that I get asked about frequently, 
-firstly, X and Q were swapped since QX never occurs and XQ occurs rarely, this barely affects the stats and is overall a miniscule change.
+
+Firstly, X and Q were swapped since QX never occurs and XQ occurs rarely, this barely affects the stats and is overall a miniscule change.
+
 Secondly, J and Z were swapped since it lowers SFBs and SFS slightly, I see no reason not to do this change.
-Thirdly, I introduced a second primary version of Gallium that I called V2, this is for Row staggered keyboards that changes the vowel hand index order slightly, they aren't big enough changes that you would need to switch if you are on the previous version but it is now the default version I recommend for those keyboards going forward.
+
+Thirdly, I introduced a second primary version of Gallium that I called V2, this is for Row staggered keyboards that changes the vowel hand index order slightly, they aren't big enough changes that you would need to switch if you are on the previous version but it is now the 
+default version I recommend for those keyboards going forward.
+
 Lastly, I will be leaving all working previous downloads up on this repository but going forward but I will upload an agnostic Kanata version that will support every version of the layout including angle mod variations for every major Operating System.
+
 
 Nerps made by Smudge:
 ![Nerps](https://github.com/user-attachments/assets/7cf6ae1f-41cd-49bb-abe9-dae8a98f9ff4)
