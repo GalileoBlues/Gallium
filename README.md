@@ -1,37 +1,37 @@
 # Gallium
 Gallium is a keyboard layout and takes inspiration from nerps and tries to improve on it in comfort and speed. Now on Monkeytype! 
 
-![gallium](https://user-images.githubusercontent.com/105921721/226998970-72aa1bd3-ce83-43c3-aeef-cf7b407babf4.png)
-Angle Mod version of Gallium:
-![gallium_angle](https://user-images.githubusercontent.com/105921721/227011083-359db383-57e0-4abc-8fa9-2857a4501258.png)
-
-
+Gallium Rowstag or Gallium v2, this version was made to cater directly to the average user on a Row staggered keyboard. Beforehand Gallium was made to be compatible with both Columnar staggered keyboards and Row staggered keyboards, you may still use either layout on either key formation but this distinct versions may be slightly better.
+![rowstag](https://github.com/user-attachments/assets/ca616553-c4b7-4693-89e4-2b61ccb27349)
+Columnar Staggered version:
+![colstag](https://github.com/user-attachments/assets/387b2ed9-0af7-4d3b-8b23-86b935fd3cee)
 
 ## Operating systems
-Windows, Mac and Linux are supported with their own packages. (Windows package made by CTGAP, Mac package made by Dainternetdude and Linux XKB file made by GalileoBlues.)
+Windows, Mac and Linux are supported in varying levels, I use Linux myself so I'm biased towards agnostic implementations like [Kanata](https://github.com/jtroo/kanata). (Windows package made by CTGAP, Mac package made by Dainternetdude and Linux XKB file made by GalileoBlues.)
 
 ## Goals
 
-Gallium takes a focus on hand balance and lowering horizontal stretching of the index fingers, this is to try to enhance the comfort at higher speeds when it feels like one hand is fatiguing faster than the other and prematurely stops practice.
+Gallium tries to break up repetitive patterns, balance fatigue between the hands and be generally compatible with most people.
 
-Gallium improves on Nerps by removing notable alt fingerings (using non-traditional fingers such as pressing `P` with middle finger and `S` with index on nerps). It also adopts a different vowel block that distributes the usage load between fingers more efficiently and lowers Same Finger Bigrams (SFBs).
+To break up repetitive patterns I've chosen to lower the amount of rolls and bring the ratio of alternation to rolls closer together, to do this I made the root vowel hand index letter H. without getting too complicated this affects a large amount of interactions on the vowel hand in general and also has the intended consequence of bringing the hand balance much closer together.
 
-Another way i personally believe Gallium enhances comfort is that it has balance between alternation of the hands when typing and rolling 2 or more letters in a row on the same hand, these are the metrics we associate with speed and the main movements in typing. in other layouts i have tried i found that hand patterns being repetitive can feel fatiguing mentally when rolling is maximised and alternation is lower overall. this can feel like typing almost a whole word on one hand.
+Although Gallium does have some pinky and ring usage that would require work to transition to from Qwerty I ultimately think it's a necessary evil. Otherwise Colemak is much less impactful to the pinkies and would suit said people better.
 
-Gallium also is the made in mind with maximising pinky usage according to the fastest typists, during my observations of 200 wpm typists a particular form adapted where the pinkies "float" and this has been hypothesised to give the typist more independance of the ring finger and lead to better comfort at higher speed, this form persists in Qwerty, Colemak, Canary and Semimak typists but only partially in Dvorak typists, in videos online of 200 wpm dvorak typists it was observed that only the left pinky floats whereas the right pinky does not, this is because dvorak's right pinky column is `LSZ` L being 4% usage on most corpora translates to a pinky that cannot stray too far away from the keyboard as it is needed way more often than other layouts on pinkies. 
-
-The threshold for this form to adapt seems to be 2% movement on the primary finger not on the homerow as demonstrated by the layout Semimak of which Semi and Fenno are both above 200 wpm and have adapted this form.
-
-Based on these ideas Gallium tries to hit the maximum threshold that the pinkies can handle without giving up this possible advantage.
+Gallium is closely related to a few layouts. Although there are a lot of layouts before Gallium that took heavy inspiration from [Sturdy](https://oxey.dev/sturdy/index.html) the finished layout is extremely similar to [Graphite](https://github.com/rdavison/graphite-layout) the predecessor of which predates Gallium by a few weeks. Gallium also traces its lineage from Nerps by Smudge, notably changing the vowel block and removing the need to alt finger `SP/PS` (alt fingering is pressing a letter with a different finger than a strict homerow form).
 
 ## Weaknesses
-Gallium's performance in speed is dependant on a corpus of words just like every other alternative layout is, Gallium does particularly poorly at much more complex words such as Monkeytype's 450k wordlist setting but still does fine at 10k and below. the way it is worse is in SFBs as `HY`, `PY`, `PH` and `PF` bigrams occur much more commonly in that wordlist, one way to combat this is to alt finger them like spoken about previously.
+Gallium's performance in speed is dependent on a corpus of words just like every other alternative layout is, Gallium does particularly poorly at much more complex words such as Monkeytype's 450k wordlist setting but still does fine at 10k and below. the way it is worse is in SFBs as `HY`, `PY`, `PH` and `PF` bigrams occur much more commonly in that wordlist, one way to combat this is to alt finger them like spoken about previously.
 
 ## Etymology 
+Gallium was named after the element as are most of my older layouts. G does bear significance to the way inner index column movement was optimised for but honestly the name just goes hard.
 
-Gallium was named after the element as are most of my layouts, I typically select a letter the bears importance to the design philosophy try to find a layout that starts with the same letter. G in this case marks the careful balance of the index inner column usage between both hands and how i was determined to get the usage very similar between the hands as i was frustated with layouts that blindly lowered the LSB stat in layout anaylsers (lateral stretch bigrams) without regard for where the locations of those bigrams are and the division of bad patterns like that.
+## Changes
+Since Gallium has been out there have been some minor changes to the layout that I get asked about frequently, 
+firstly, X and Q were swapped since QX never occurs and XQ occurs rarely, this barely affects the stats and is overall a miniscule change.
+Secondly, J and Z were swapped since it lowers SFBs and SFS slightly, I see no reason not to do this change.
+Thirdly, I introduced a second primary version of Gallium that I called V2, this is for Row staggered keyboards that changes the vowel hand index order slightly, they aren't big enough changes that you would need to switch if you are on the previous version but it is now the default version I recommend for those keyboards going forward.
+Lastly, I will be leaving all working previous downloads up on this repository but going forward but I will upload an agnostic Kanata version that will support every version of the layout for every major Operating System.
 
 Made by Smudge:
-![nerps](https://user-images.githubusercontent.com/105921721/226997711-cf47a89c-a350-4d1a-b4e5-18cd2985812c.png)
-
+![Nerps](https://github.com/user-attachments/assets/7cf6ae1f-41cd-49bb-abe9-dae8a98f9ff4)
 
