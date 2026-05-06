@@ -3,14 +3,14 @@ default partial
 xkb_symbols "basic" {
     include "us(basic)"
 
-    name[Group1] = "Gallium";
+    name[Group1] = "Gallium v2 (colstag)";
 
     key <AD01> {[ b, B ]};
     key <AD02> {[ l, L ]};
     key <AD03> {[ d, D ]};
     key <AD04> {[ c, C ]};
-    key <AD05> {[ j, J ]};
-    key <AD06> {[ z, Z ]};
+    key <AD05> {[ v, V ]};
+    key <AD06> {[ j, J ]};
     key <AD07> {[ y, Y ]};
     key <AD08> {[ o, O ]};
     key <AD09> {[ u, U ]};
@@ -19,7 +19,7 @@ xkb_symbols "basic" {
     key <AC02> {[ r, R ]};
     key <AC03> {[ t, T ]};
     key <AC04> {[ s, S ]};
-    key <AC05> {[ v, V ]};
+    key <AC05> {[ g, G ]};
     key <AC06> {[ p, P ]};
     key <AC07> {[ h, H ]};
     key <AC08> {[ a, A ]};
@@ -27,10 +27,10 @@ xkb_symbols "basic" {
     key <AC10> {[ i, I ]};
     key <AC11> {[ slash, question ]};
     key <AB01> {[ x, X ]};
-    key <AB02> {[ m, M ]};
-    key <AB03> {[ w, W ]};
-    key <AB04> {[ g, G ]};
-    key <AB05> {[ q, Q ]};
+    key <AB02> {[ q, Q ]};
+    key <AB03> {[ m, M ]};
+    key <AB04> {[ w, W ]};
+    key <AB05> {[ z, Z ]};
     key <AB06> {[ k, K ]};
     key <AB07> {[ f, F ]};
     key <AB08> {[ apostrophe, quotedbl ]};
