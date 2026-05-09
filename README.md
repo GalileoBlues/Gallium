@@ -1,9 +1,9 @@
 # Gallium
-## Gallium is a keyboard layout and takes inspiration from nerps and tries to improve on it in comfort and speed. Now on Monkeytype! 
+## Gallium is a keyboard layout that takes inspiration from nerps and tries to improve on it in comfort and speed. Now on Monkeytype! 
 
-### This repo is currently undergoing some changes to bring all installations up to date, currently the most complete version is the Kanata version which covers all variants and works on all operating systems. The Linux version currently provides both primary versions of Gallium (Rowstag and Colstag), The Windows and MacOS installations are out of date currently.
+### This repo is currently undergoing some changes to bring all installations up to date. Currently Kanata is the most complete version which covers all variants and works on all operating systems. The Linux version currently provides both primary versions of Gallium (Rowstag and Colstag). The Windows and MacOS installations are out of date currently.
 
-Gallium Rowstag (previously named Gallium v2): The Rowstag version was made to cater directly to the average user on a Row staggered keyboard based on feedback I received after the original verion (Gallium Colstag) was made. Beforehand Gallium was made to be compatible with both Columnar staggered keyboards and Row staggered keyboards. The different layouts are simply a preference that may be slightly better on their respective keyboard types, you may still use either layout on either keyboard type.
+Gallium Rowstag (previously named Gallium v2): The Rowstag version was made to cater directly to the average user on a Row staggered keyboard based on feedback I received after the original version (Gallium Colstag) was made. Beforehand Gallium was made to be compatible with both Columnar staggered keyboards and Row staggered keyboards. The different layouts are simply a preference that may be slightly better on their respective keyboard types, you may still use either layout on either keyboard type.
 
 Gallium Row Staggered:
 
@@ -37,7 +37,7 @@ Gallium was named after the element as are most of my older layouts. G does bear
 ## Changes
 Since Gallium has been out there have been some minor changes to the layout that I get asked about frequently, 
 
-1) X and Q were swapped since QX never occurs and XQ occurs rarely, this barely affects the stats and is overall a miniscule change.
+1) X and Q were swapped since QX never occurs and XQ occurs rarely, this barely affects the stats and is overall a minuscule change.
 2) J and Z were swapped since it lowers SFBs and SFS slightly, I see no reason not to do this change.
 
 Nerps made by Smudge:
