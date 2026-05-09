@@ -5,9 +5,14 @@
 
 Gallium Rowstag (previously named Gallium v2): The Rowstag version was made to cater directly to the average user on a Row staggered keyboard based on feedback I received after the original verion (Gallium Colstag) was made. Beforehand Gallium was made to be compatible with both Columnar staggered keyboards and Row staggered keyboards. The different layouts are simply a preference that may be slightly better on their respective keyboard types, you may still use either layout on either keyboard type.
 
-![rowstag](https://github.com/user-attachments/assets/ca616553-c4b7-4693-89e4-2b61ccb27349)
-Columnar Staggered version:
-![colstag](https://github.com/user-attachments/assets/634c9a63-9b22-4eec-9bd3-7bb0b312b5c6)
+Gallium Row Staggered:
+
+![Gallium_Rowstag](Images/Gallium_Rowstag.svg)
+
+
+Gallium Columnar Staggered:
+
+![Gallium_Colstag](Images/Gallium_Colstag.svg)
 
 
 ## Operating systems
@@ -36,5 +41,6 @@ Since Gallium has been out there have been some minor changes to the layout that
 2) J and Z were swapped since it lowers SFBs and SFS slightly, I see no reason not to do this change.
 
 Nerps made by Smudge:
-![Nerps](https://github.com/user-attachments/assets/7cf6ae1f-41cd-49bb-abe9-dae8a98f9ff4)
+
+![Nerps](Images/Nerps.svg)
 
