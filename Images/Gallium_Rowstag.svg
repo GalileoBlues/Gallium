@@ -6,7 +6,7 @@
    class="keymap"
    version="1.1"
    id="svg62"
-   sodipodi:docname="Gallium_Rowstag3.svg"
+   sodipodi:docname="Gallium_Rowstag.svg"
    inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    inkscape:export-filename="Gallium_Rowstag3-1.png"
    inkscape:export-xdpi="96"
@@ -18,22 +18,182 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs62"><linearGradient
-       id="linearGradient93"
+       id="linearGradient93-9"
        inkscape:collect="always"><stop
-         style="stop-color:#0f121a;stop-opacity:1;"
+         style="stop-color:#1e1e2f;stop-opacity:1;"
          offset="0.28695655"
-         id="stop93" /><stop
+         id="stop93-7" /><stop
          style="stop-color:#10161e;stop-opacity:1;"
          offset="0.59782612"
-         id="stop95" /><stop
+         id="stop95-7" /><stop
          style="stop-color:#121721;stop-opacity:1;"
          offset="0.9173913"
-         id="stop96" /><stop
+         id="stop96-6" /><stop
          style="stop-color:#141824;stop-opacity:1;"
          offset="1"
-         id="stop94" /></linearGradient><linearGradient
+         id="stop94-7" /></linearGradient><linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient93"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient1"
+       gradientUnits="userSpaceOnUse"
+       x1="-18.738329"
+       y1="-18.738329"
+       x2="18.738329"
+       y2="18.738329" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient2"
+       gradientUnits="userSpaceOnUse"
+       x1="-18.738329"
+       y1="-18.738329"
+       x2="18.738329"
+       y2="18.738329" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient3"
+       gradientUnits="userSpaceOnUse"
+       x1="-18.738329"
+       y1="-18.738329"
+       x2="18.738329"
+       y2="18.738329" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient4"
+       gradientUnits="userSpaceOnUse"
+       x1="-18.738329"
+       y1="-18.738329"
+       x2="18.738329"
+       y2="18.738329" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient5"
+       gradientUnits="userSpaceOnUse"
+       x1="-18.738329"
+       y1="-18.738329"
+       x2="18.738329"
+       y2="18.738329" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient6"
+       gradientUnits="userSpaceOnUse"
+       x1="-18.738329"
+       y1="-18.738329"
+       x2="18.738329"
+       y2="18.738329" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient7"
+       gradientUnits="userSpaceOnUse"
+       x1="-18.738329"
+       y1="-18.738329"
+       x2="18.738329"
+       y2="18.738329" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient8"
+       gradientUnits="userSpaceOnUse"
+       x1="-18.738329"
+       y1="-18.738329"
+       x2="18.738329"
+       y2="18.738329" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient9"
+       gradientUnits="userSpaceOnUse"
+       x1="-18.738329"
+       y1="-18.738329"
+       x2="18.738329"
+       y2="18.738329" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient10"
+       gradientUnits="userSpaceOnUse"
+       x1="-18.738329"
+       y1="-18.738329"
+       x2="18.738329"
+       y2="18.738329" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient11"
+       gradientUnits="userSpaceOnUse"
+       x1="-18.738329"
+       y1="-18.738329"
+       x2="18.738329"
+       y2="18.738329" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient12"
+       gradientUnits="userSpaceOnUse"
+       x1="-18.738329"
+       y1="-18.738329"
+       x2="18.738329"
+       y2="18.738329" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient13"
+       gradientUnits="userSpaceOnUse"
+       x1="-18.738329"
+       y1="-18.738329"
+       x2="18.738329"
+       y2="18.738329" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient14"
+       gradientUnits="userSpaceOnUse"
+       x1="-18.738329"
+       y1="-18.738329"
+       x2="18.738329"
+       y2="18.738329" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient15"
+       gradientUnits="userSpaceOnUse"
+       x1="-18.738329"
+       y1="-18.738329"
+       x2="18.738329"
+       y2="18.738329" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient16"
+       gradientUnits="userSpaceOnUse"
+       x1="-18.738329"
+       y1="-18.738329"
+       x2="18.738329"
+       y2="18.738329" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient17"
+       gradientUnits="userSpaceOnUse"
+       x1="-18.738329"
+       y1="-18.738329"
+       x2="18.738329"
+       y2="18.738329" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient18"
+       gradientUnits="userSpaceOnUse"
+       x1="-18.738329"
+       y1="-18.738329"
+       x2="18.738329"
+       y2="18.738329" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient19"
+       gradientUnits="userSpaceOnUse"
+       x1="-18.738329"
+       y1="-18.738329"
+       x2="18.738329"
+       y2="18.738329" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient20"
+       gradientUnits="userSpaceOnUse"
+       x1="-18.738329"
+       y1="-18.738329"
+       x2="18.738329"
+       y2="18.738329" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient93-9"
        id="linearGradient21"
        gradientUnits="userSpaceOnUse"
        x1="-18.738329"
@@ -41,240 +201,72 @@
        x2="18.738329"
        y2="18.738329" /><linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient91"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient22"
        gradientUnits="userSpaceOnUse"
        x1="-18.738329"
        y1="-18.738329"
        x2="18.738329"
        y2="18.738329" /><linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient92"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient23"
        gradientUnits="userSpaceOnUse"
        x1="-18.738329"
        y1="-18.738329"
        x2="18.738329"
        y2="18.738329" /><linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient94"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient24"
        gradientUnits="userSpaceOnUse"
        x1="-18.738329"
        y1="-18.738329"
        x2="18.738329"
        y2="18.738329" /><linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient95"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient25"
        gradientUnits="userSpaceOnUse"
        x1="-18.738329"
        y1="-18.738329"
        x2="18.738329"
        y2="18.738329" /><linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient96"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient26"
        gradientUnits="userSpaceOnUse"
        x1="-18.738329"
        y1="-18.738329"
        x2="18.738329"
        y2="18.738329" /><linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient97"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient27"
        gradientUnits="userSpaceOnUse"
        x1="-18.738329"
        y1="-18.738329"
        x2="18.738329"
        y2="18.738329" /><linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient98"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient28"
        gradientUnits="userSpaceOnUse"
        x1="-18.738329"
        y1="-18.738329"
        x2="18.738329"
        y2="18.738329" /><linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient99"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient29"
        gradientUnits="userSpaceOnUse"
        x1="-18.738329"
        y1="-18.738329"
        x2="18.738329"
        y2="18.738329" /><linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient100"
-       gradientUnits="userSpaceOnUse"
-       x1="-18.738329"
-       y1="-18.738329"
-       x2="18.738329"
-       y2="18.738329" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient101"
-       gradientUnits="userSpaceOnUse"
-       x1="-18.738329"
-       y1="-18.738329"
-       x2="18.738329"
-       y2="18.738329" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient102"
-       gradientUnits="userSpaceOnUse"
-       x1="-18.738329"
-       y1="-18.738329"
-       x2="18.738329"
-       y2="18.738329" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient103"
-       gradientUnits="userSpaceOnUse"
-       x1="-18.738329"
-       y1="-18.738329"
-       x2="18.738329"
-       y2="18.738329" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient104"
-       gradientUnits="userSpaceOnUse"
-       x1="-18.738329"
-       y1="-18.738329"
-       x2="18.738329"
-       y2="18.738329" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient105"
-       gradientUnits="userSpaceOnUse"
-       x1="-18.738329"
-       y1="-18.738329"
-       x2="18.738329"
-       y2="18.738329" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient106"
-       gradientUnits="userSpaceOnUse"
-       x1="-18.738329"
-       y1="-18.738329"
-       x2="18.738329"
-       y2="18.738329" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient107"
-       gradientUnits="userSpaceOnUse"
-       x1="-18.738329"
-       y1="-18.738329"
-       x2="18.738329"
-       y2="18.738329" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient108"
-       gradientUnits="userSpaceOnUse"
-       x1="-18.738329"
-       y1="-18.738329"
-       x2="18.738329"
-       y2="18.738329" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient109"
-       gradientUnits="userSpaceOnUse"
-       x1="-18.738329"
-       y1="-18.738329"
-       x2="18.738329"
-       y2="18.738329" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient110"
-       gradientUnits="userSpaceOnUse"
-       x1="-18.738329"
-       y1="-18.738329"
-       x2="18.738329"
-       y2="18.738329" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient111"
-       gradientUnits="userSpaceOnUse"
-       x1="-18.738329"
-       y1="-18.738329"
-       x2="18.738329"
-       y2="18.738329" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient112"
-       gradientUnits="userSpaceOnUse"
-       x1="-18.738329"
-       y1="-18.738329"
-       x2="18.738329"
-       y2="18.738329" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient113"
-       gradientUnits="userSpaceOnUse"
-       x1="-18.738329"
-       y1="-18.738329"
-       x2="18.738329"
-       y2="18.738329" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient114"
-       gradientUnits="userSpaceOnUse"
-       x1="-18.738329"
-       y1="-18.738329"
-       x2="18.738329"
-       y2="18.738329" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient115"
-       gradientUnits="userSpaceOnUse"
-       x1="-18.738329"
-       y1="-18.738329"
-       x2="18.738329"
-       y2="18.738329" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient116"
-       gradientUnits="userSpaceOnUse"
-       x1="-18.738329"
-       y1="-18.738329"
-       x2="18.738329"
-       y2="18.738329" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient117"
-       gradientUnits="userSpaceOnUse"
-       x1="-18.738329"
-       y1="-18.738329"
-       x2="18.738329"
-       y2="18.738329" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient118"
-       gradientUnits="userSpaceOnUse"
-       x1="-18.738329"
-       y1="-18.738329"
-       x2="18.738329"
-       y2="18.738329" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient119"
-       gradientUnits="userSpaceOnUse"
-       x1="-18.738329"
-       y1="-18.738329"
-       x2="18.738329"
-       y2="18.738329" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient120"
-       gradientUnits="userSpaceOnUse"
-       x1="-18.738329"
-       y1="-18.738329"
-       x2="18.738329"
-       y2="18.738329" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient93"
-       id="linearGradient121"
+       xlink:href="#linearGradient93-9"
+       id="linearGradient30"
        gradientUnits="userSpaceOnUse"
        x1="-18.738329"
        y1="-18.738329"
@@ -446,54 +438,6 @@ path.combo { stroke: #7f7f7f; }
      id="g62"><g
        transform="translate(0,56)"
        id="g61"><g
-         transform="translate(28,28)"
-         class="key keypos-0"
-         id="g1" /><g
-         transform="translate(84,28)"
-         class="key keypos-1"
-         id="g2" /><g
-         transform="translate(140,28)"
-         class="key keypos-2"
-         id="g3" /><g
-         transform="translate(196,28)"
-         class="key keypos-3"
-         id="g4" /><g
-         transform="translate(252,28)"
-         class="key keypos-4"
-         id="g5" /><g
-         transform="translate(308,28)"
-         class="key keypos-5"
-         id="g6" /><g
-         transform="translate(364,28)"
-         class="key keypos-6"
-         id="g7" /><g
-         transform="translate(420,28)"
-         class="key keypos-7"
-         id="g8" /><g
-         transform="translate(476,28)"
-         class="key keypos-8"
-         id="g9" /><g
-         transform="translate(532,28)"
-         class="key keypos-9"
-         id="g10" /><g
-         transform="translate(588,28)"
-         class="key keypos-10"
-         id="g11" /><g
-         transform="translate(644,28)"
-         class="key keypos-11"
-         id="g12" /><g
-         transform="translate(700,28)"
-         class="key keypos-12"
-         id="g13" /><g
-         transform="translate(756,28)"
-         class="key keypos-13"
-         id="g14" /><g
-         transform="translate(812,28)"
-         class="key keypos-14"
-         id="g15" /><g
-         transform="translate(42,84)"
-         class="key keypos-15"
-         id="g16" /><g
          id="g121"><g
            transform="translate(112,84)"
            class="key keypos-16"
@@ -506,7 +450,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect17"
-             style="fill:url(#linearGradient21);fill-opacity:1;fill-rule:nonzero;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient1);fill-opacity:1;fill-rule:nonzero;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="-0.36479649"
              y="1.1458901"
              class="key tap"
@@ -524,7 +468,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect18"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient2);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="-0.47119746"
              y="1.164905"
              class="key tap"
@@ -542,7 +486,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect19"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient3);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="-0.24970868"
              y="1.1495211"
              class="key tap"
@@ -560,7 +504,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect20"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient4);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="-0.11080405"
              y="1.1421343"
              class="key tap"
@@ -578,7 +522,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect21"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient5);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="0.0042023924"
              y="1.1220388"
              class="key tap"
@@ -596,7 +540,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect22"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient6);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="0.29434037"
              y="1.0851054"
              class="key tap"
@@ -614,7 +558,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect23"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient7);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="-0.21728514"
              y="1.1603025"
              class="key tap"
@@ -632,7 +576,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect24"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient8);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="0.0042640381"
              y="1.1427624"
              class="key tap"
@@ -650,7 +594,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect25"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient9);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="0.0086202146"
              y="1.0645965"
              class="key tap"
@@ -668,7 +612,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect26"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient10);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="1.4710011"
              y="-0.78766441"
              class="key tap"
@@ -686,7 +630,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect31"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient11);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="0.0043380125"
              y="1.1582495"
              class="key tap"
@@ -704,7 +648,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect32"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient12);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="-0.4707388"
              y="1.1426116"
              class="key tap"
@@ -722,7 +666,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect33"
-             style="mix-blend-mode:normal;fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="mix-blend-mode:normal;fill:url(#linearGradient13);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="0.0042522219"
              y="1.1353433"
              class="key tap"
@@ -740,7 +684,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect34"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient14);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="0.093560696"
              y="1.1397392"
              class="key tap"
@@ -758,7 +702,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect35"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient15);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="0.055644825"
              y="1.1471395"
              class="key tap"
@@ -776,7 +720,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect36"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient16);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="0.0042206789"
              y="1.1269211"
              class="key tap"
@@ -794,7 +738,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect37"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient17);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="0.0043380125"
              y="1.1582495"
              class="key tap"
@@ -812,7 +756,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect38"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient18);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="0.0041957763"
              y="1.1202725"
              class="key tap"
@@ -830,7 +774,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect39"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient19);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="-0.23687194"
              y="1.1499057"
              class="key tap"
@@ -848,7 +792,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect40"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient20);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="0.0087796384"
              y="1.1720817"
              class="key tap"
@@ -893,7 +837,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect45"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient22);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="-0.041809082"
              y="-0.41390991"
              class="key tap"
@@ -911,7 +855,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect46"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient23);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="0.0043017333"
              y="1.1485626"
              class="key tap"
@@ -929,7 +873,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect47"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient24);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="0.0041957763"
              y="1.1202725"
              class="key tap"
@@ -947,7 +891,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect48"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient25);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="0.0042496826"
              y="1.1346655"
              class="key tap"
@@ -965,7 +909,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect49"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient26);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="-0.6811133"
              y="1.136608"
              class="key tap"
@@ -983,7 +927,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect50"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient27);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="-0.22404051"
              y="1.1503619"
              class="key tap"
@@ -1001,7 +945,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect51"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient28);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="0.006266797"
              y="3.7117736"
              class="key tap"
@@ -1019,7 +963,7 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect52"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient29);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="0.44131666"
              y="0.88356984"
              class="key tap"
@@ -1037,566 +981,13 @@ path.combo { stroke: #7f7f7f; }
              height="52"
              class="key"
              id="rect53"
-             style="fill:url(#linearGradient21);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
+             style="fill:url(#linearGradient30);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
              x="0.014406201"
              y="-1.7242317"
              class="key tap"
              id="text53"
              style="font-size:29.5039px;fill:#ffffff;fill-opacity:1;stroke-width:2.10742"
-             transform="scale(1.0651455,0.93883886)">.</text></g></g><g
-         id="g63"
-         transform="translate(54,220)"><g
-           transform="translate(30)"
-           class="layer-DEF"
-           id="g44-2"><g
-             transform="translate(0,56)"
-             id="g43-9"><g
-               transform="translate(28,49)"
-               class="key keypos-0"
-               id="g1-1"><path
-                 id="rect1"
-                 style="fill:url(#linearGradient91);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1"
-                 class="key"
-                 sodipodi:type="inkscape:offset"
-                 inkscape:radius="0"
-                 inkscape:original="M -20 -26 C -23.324 -26 -26 -23.324 -26 -20 L -26 20 C -26 23.324 -23.324 26 -20 26 L 20 26 C 23.324 26 26 23.324 26 20 L 26 -20 C 26 -23.324 23.324 -26 20 -26 L -20 -26 z "
-                 d="m -20,-26 c -3.324,0 -6,2.676 -6,6 v 40 c 0,3.324 2.676,6 6,6 h 40 c 3.324,0 6,-2.676 6,-6 v -40 c 0,-3.324 -2.676,-6 -6,-6 z" /><text
-                 x="-0.36479649"
-                 y="1.1458901"
-                 class="key tap"
-                 id="text1"
-                 style="font-size:17.5789px;fill:#ffffff;fill-opacity:1;stroke-width:1.25564"
-                 transform="scale(1.031819,0.96916223)">B</text></g><g
-               transform="translate(84,35)"
-               class="key keypos-1"
-               id="g2-2"><path
-                 id="rect2"
-                 class="key"
-                 style="fill:url(#linearGradient92);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1"
-                 d="m -20,-26 h 40 c 3.324,0 6,2.676 6,6 v 40 c 0,3.324 -2.676,6 -6,6 h -40 c -3.324,0 -6,-2.676 -6,-6 v -40 c 0,-3.324 2.676,-6 6,-6 z" /><text
-                 x="-0.47119746"
-                 y="1.164905"
-                 class="key tap"
-                 id="text2"
-                 style="font-size:17.8706px;fill:#ffffff;fill-opacity:1;stroke-width:1.27648"
-                 transform="scale(1.0489421,0.95334147)">L</text></g><g
-               transform="translate(140,28)"
-               class="key keypos-2"
-               id="g3-7"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect3"
-                 style="fill:url(#linearGradient94);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="-0.2497087"
-                 y="1.1495211"
-                 class="key tap"
-                 id="text3"
-                 style="font-size:17.6346px;fill:#ffffff;fill-opacity:1;stroke-width:1.25962"
-                 transform="scale(1.035088,0.96610144)">D</text></g><g
-               transform="translate(196,35)"
-               class="key keypos-3"
-               id="g4-0"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect4"
-                 style="fill:url(#linearGradient95);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="-0.11080405"
-                 y="1.1421343"
-                 class="key tap"
-                 id="text4"
-                 style="font-size:17.4559px;fill:#ffffff;fill-opacity:1;stroke-width:1.24685"
-                 transform="scale(1.0300376,0.97083835)">C</text></g><g
-               transform="translate(252,42)"
-               class="key keypos-4"
-               id="g5-9"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect5"
-                 style="fill:url(#linearGradient96);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="0.0042023924"
-                 y="1.1220388"
-                 class="key tap"
-                 id="text5"
-                 style="font-size:17.213px;fill:#ffffff;fill-opacity:1;stroke-width:1.22951"
-                 transform="scale(1.0103427,0.98976317)">V</text></g><g
-               transform="translate(416,42)"
-               class="key keypos-5"
-               id="g6-3"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect6"
-                 style="fill:url(#linearGradient97);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="0.29434037"
-                 y="1.0851054"
-                 class="key tap"
-                 id="text6"
-                 style="font-size:17.9943px;fill:#ffffff;fill-opacity:1;stroke-width:1.28532"
-                 transform="scale(1.0590282,0.94426191)">J</text></g><g
-               transform="translate(472,35)"
-               class="key keypos-6"
-               id="g7-6"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect7"
-                 style="fill:url(#linearGradient98);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="0.0042206789"
-                 y="1.1269211"
-                 class="key tap"
-                 id="text7"
-                 style="font-size:17.2879px;fill:#ffffff;fill-opacity:1;stroke-width:1.23485"
-                 transform="scale(1.0147367,0.9854773)">Y</text></g><g
-               transform="translate(528,28)"
-               class="key keypos-7"
-               id="g8-0"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect8"
-                 style="fill:url(#linearGradient99);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="0.0042640381"
-                 y="1.1427624"
-                 class="key tap"
-                 id="text8"
-                 style="font-size:17.4655px;fill:#ffffff;fill-opacity:1;stroke-width:1.24753"
-                 transform="scale(1.0306044,0.97030441)">O</text></g><g
-               transform="translate(584,35)"
-               class="key keypos-8"
-               id="g9-6"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect9"
-                 style="fill:url(#linearGradient100);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="0.0086202146"
-                 y="1.0645965"
-                 class="key tap"
-                 id="text9"
-                 style="font-size:17.6542px;fill:#ffffff;fill-opacity:1;stroke-width:1.26102"
-                 transform="scale(1.0390118,0.96245297)">U</text></g><g
-               transform="translate(640,49)"
-               class="key keypos-9"
-               id="g10-2"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect10"
-                 style="fill:url(#linearGradient101);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="1.4710011"
-                 y="-0.78766441"
-                 class="key tap"
-                 id="text10"
-                 style="font-size:21.7517px;fill:#ffffff;fill-opacity:1;stroke-width:1.5537"
-                 transform="scale(1.0775587,0.92802367)">,</text></g><g
-               transform="translate(28,105)"
-               class="key keypos-10"
-               id="g11-6"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect11"
-                 style="fill:url(#linearGradient102);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="0.96003783"
-                 y="1.2495935"
-                 class="key tap"
-                 id="text11"
-                 style="font-size:17.7685px;fill:#ffffff;fill-opacity:1;stroke-width:1.26919"
-                 transform="scale(1.0429495,0.9588192)">N</text></g><g
-               transform="translate(84,91)"
-               class="key keypos-11"
-               id="g12-1"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect12"
-                 style="fill:url(#linearGradient103);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="0.8664133"
-                 y="1.2327173"
-                 class="key tap"
-                 id="text12"
-                 style="font-size:17.5286px;fill:#ffffff;fill-opacity:1;stroke-width:1.25204"
-                 transform="scale(1.0288641,0.9719457)">R</text></g><g
-               transform="translate(140,84)"
-               class="key keypos-12"
-               id="g13-8"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect13"
-                 style="fill:url(#linearGradient104);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="0.97885716"
-                 y="1.2248759"
-                 class="key tap"
-                 id="text13"
-                 style="font-size:17.4171px;fill:#ffffff;fill-opacity:1;stroke-width:1.24408"
-                 transform="scale(1.0223194,0.97816788)">T</text></g><g
-               transform="translate(196,91)"
-               class="key keypos-13"
-               id="g14-7"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect14"
-                 style="fill:url(#linearGradient105);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="0.99333382"
-                 y="1.226089"
-                 class="key tap"
-                 id="text14"
-                 style="font-size:17.4193px;fill:#ffffff;fill-opacity:1;stroke-width:1.24423"
-                 transform="scale(1.0278774,0.97287866)">S</text></g><g
-               transform="translate(252,98)"
-               class="key keypos-14"
-               id="g15-9"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect15"
-                 style="fill:url(#linearGradient106);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="0.97949994"
-                 y="1.2340537"
-                 class="key tap"
-                 id="text15"
-                 style="font-size:17.5324px;fill:#ffffff;fill-opacity:1;stroke-width:1.25231"
-                 transform="scale(1.0345545,0.96659959)">G</text></g><g
-               transform="translate(416,98)"
-               class="key keypos-15"
-               id="g16-2"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect16"
-                 style="fill:url(#linearGradient107);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="-0.22404051"
-                 y="1.1503619"
-                 class="key tap"
-                 id="text16"
-                 style="font-size:17.6475px;fill:#ffffff;fill-opacity:1;stroke-width:1.26054"
-                 transform="scale(1.0358447,0.96539568)">P</text></g><g
-               transform="translate(472,91)"
-               class="key keypos-16"
-               id="g17-0"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect17-2"
-                 style="fill:url(#linearGradient108);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="0.0043380125"
-                 y="1.1582495"
-                 class="key tap"
-                 id="text17-3"
-                 style="font-size:17.7685px;fill:#ffffff;fill-opacity:1;stroke-width:1.26919"
-                 transform="scale(1.0429495,0.9588192)">H</text></g><g
-               transform="translate(528,84)"
-               class="key keypos-17"
-               id="g18-7"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect18-5"
-                 style="fill:url(#linearGradient109);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="0.0041957763"
-                 y="1.1202725"
-                 class="key tap"
-                 id="text18-9"
-                 style="font-size:17.1859px;fill:#ffffff;fill-opacity:1;stroke-width:1.22757"
-                 transform="scale(1.0087508,0.99132511)">A</text></g><g
-               transform="translate(584,91)"
-               class="key keypos-18"
-               id="g19-2"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect19-2"
-                 style="fill:url(#linearGradient110);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="-0.23687194"
-                 y="1.1499057"
-                 class="key tap"
-                 id="text19-8"
-                 style="font-size:17.6405px;fill:#ffffff;fill-opacity:1;stroke-width:1.26004"
-                 transform="scale(1.035435,0.96577767)">E</text></g><g
-               transform="translate(640,105)"
-               class="key keypos-19"
-               id="g20-9"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect20-7"
-                 style="fill:url(#linearGradient111);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="0.0087796384"
-                 y="1.1720817"
-                 class="key tap"
-                 id="text20-3"
-                 style="font-size:17.9807px;fill:#ffffff;fill-opacity:1;stroke-width:1.28434"
-                 transform="scale(1.0554054,0.9475032)">I</text></g><g
-               transform="translate(28,161)"
-               class="key keypos-20"
-               id="g21-6"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect21-1"
-                 style="fill:url(#linearGradient112);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="0.98547709"
-                 y="1.2156948"
-                 class="key tap"
-                 id="text21-29"
-                 style="font-size:17.2865px;fill:#ffffff;fill-opacity:1;stroke-width:1.23476"
-                 transform="scale(1.0146566,0.98555513)">X</text></g><g
-               transform="translate(84,147)"
-               class="key keypos-21"
-               id="g22-3"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect22-1"
-                 style="fill:url(#linearGradient113);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="0.94435823"
-                 y="0.98963124"
-                 class="key tap"
-                 id="text22-9"
-                 style="font-size:17.125px;fill:#ffffff;fill-opacity:1;stroke-width:1.22321"
-                 transform="scale(1.048587,0.95366434)">Q</text></g><g
-               transform="translate(140,140)"
-               class="key keypos-22"
-               id="g23-4"><path
-                 id="rect23-7"
-                 class="key"
-                 style="fill:url(#linearGradient114);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1"
-                 d="m -20,-26 h 40 c 3.324,0 6,2.676 6,6 v 40 c 0,3.324 -2.676,6 -6,6 h -40 c -3.324,0 -6,-2.676 -6,-6 v -40 c 0,-3.324 2.676,-6 6,-6 z" /><text
-                 x="0.96797997"
-                 y="1.2391418"
-                 class="key tap"
-                 id="text23-8"
-                 style="font-size:17.6199px;fill:#ffffff;fill-opacity:1;stroke-width:1.25857"
-                 transform="scale(1.0342262,0.96690647)">M</text></g><g
-               transform="translate(196,147)"
-               class="key keypos-23"
-               id="g24-4"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect24-5"
-                 style="fill:url(#linearGradient115);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="0.99237609"
-                 y="1.208619"
-                 class="key tap"
-                 id="text24-0"
-                 style="font-size:17.1859px;fill:#ffffff;fill-opacity:1;stroke-width:1.22757"
-                 transform="scale(1.0087508,0.99132508)">W</text></g><g
-               transform="translate(252,154)"
-               class="key keypos-24"
-               id="g25-3"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect25-6"
-                 style="fill:url(#linearGradient116);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="0.97942597"
-                 y="1.2241488"
-                 class="key tap"
-                 id="text25-1"
-                 style="font-size:17.4067px;fill:#ffffff;fill-opacity:1;stroke-width:1.24334"
-                 transform="scale(1.0217125,0.97874889)">Z</text></g><g
-               transform="translate(416,154)"
-               class="key keypos-25"
-               id="g26-06"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect26-3"
-                 style="fill:url(#linearGradient117);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="-0.6811133"
-                 y="1.136608"
-                 class="key tap"
-                 id="text26-2"
-                 style="font-size:17.4365px;fill:#ffffff;fill-opacity:1;stroke-width:1.24547"
-                 transform="scale(1.023458,0.97707966)">K</text></g><g
-               transform="translate(472,147)"
-               class="key keypos-26"
-               id="g27-0"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect27"
-                 style="fill:url(#linearGradient118);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="-0.21728638"
-                 y="1.1603092"
-                 class="key tap"
-                 id="text27"
-                 style="font-size:17.8001px;fill:#ffffff;fill-opacity:1;stroke-width:1.27144"
-                 transform="scale(1.0447998,0.95712116)">F</text></g><g
-               transform="translate(528,140)"
-               class="key keypos-27"
-               id="g28-6"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect28"
-                 style="fill:url(#linearGradient119);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="0.006266797"
-                 y="3.7117736"
-                 class="key tap"
-                 id="text28"
-                 style="font-size:25.6688px;fill:#ffffff;fill-opacity:1;stroke-width:1.83349"
-                 transform="scale(1.2576898,0.79510862)">'</text></g><g
-               transform="translate(584,147)"
-               class="key keypos-28"
-               id="g29-15"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect29"
-                 style="fill:url(#linearGradient120);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="0.44131666"
-                 y="0.88355333"
-                 class="key tap"
-                 id="text29"
-                 style="font-size:19.8641px;fill:#ffffff;fill-opacity:1;stroke-width:1.41887"
-                 transform="scale(1.1799524,0.84749182)">;</text></g><g
-               transform="translate(640,161)"
-               class="key keypos-29"
-               id="g30-5"><rect
-                 rx="6"
-                 ry="6"
-                 x="-26"
-                 y="-26"
-                 width="52"
-                 height="52"
-                 class="key"
-                 id="rect30"
-                 style="fill:url(#linearGradient121);fill-opacity:1;stroke:#0b0e14;stroke-width:1;stroke-opacity:1" /><text
-                 x="0.014406201"
-                 y="-1.7242317"
-                 class="key tap"
-                 id="text30"
-                 style="font-size:29.5039px;fill:#ffffff;fill-opacity:1;stroke-width:2.10742"
-                 transform="scale(1.0651455,0.93883886)">.</text></g><g
-               transform="translate(168,205)"
-               class="key ghost keypos-30"
-               id="g32-4" /><g
-               transform="rotate(15,-693.94781,980.01172)"
-               class="key keypos-31"
-               id="g34-7" /><g
-               transform="rotate(30,-270.48969,662.47749)"
-               class="key keypos-32"
-               id="g36-6" /><g
-               transform="rotate(-30,634.48969,-695.989)"
-               class="key keypos-33"
-               id="g38-5" /><g
-               transform="rotate(-15,1057.9478,-1784.8428)"
-               class="key keypos-34"
-               id="g40-6" /><g
-               transform="translate(560,205)"
-               class="key ghost keypos-35"
-               id="g42-9" /></g></g></g></g></g><style
+             transform="scale(1.0651455,0.93883886)">.</text></g></g></g></g><style
      id="style1-6">/* inherit to force styles through use tags */
 svg path {
     fill: inherit;
@@ -1734,6 +1125,822 @@ path.combo { stroke: #7f7f7f; }
 
 }</style><style
      id="style1-4">/* inherit to force styles through use tags */
+svg path {
+    fill: inherit;
+}
+
+/* font and background color specifications */
+svg.keymap {
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-size: 14px;
+    font-kerning: normal;
+    text-rendering: optimizeLegibility;
+    fill: #24292e;
+}
+
+/* default key styling */
+rect.key {
+    fill: #f6f8fa;
+}
+
+rect.key, rect.combo {
+    stroke: #c9cccf;
+    stroke-width: 1;
+}
+
+/* default key side styling, only used is draw_key_sides is set */
+rect.side {
+    filter: brightness(90%);
+}
+
+/* color accent for combo boxes */
+rect.combo, rect.combo-separate {
+    fill: #cdf;
+}
+
+/* color accent for held keys */
+rect.held, rect.combo.held {
+    fill: #fdd;
+}
+
+/* color accent for ghost (optional) keys */
+rect.ghost, rect.combo.ghost {
+    stroke-dasharray: 4, 4;
+    stroke-width: 2;
+}
+
+text {
+    text-anchor: middle;
+    dominant-baseline: middle;
+}
+
+/* styling for layer labels */
+text.label {
+    font-weight: bold;
+    text-anchor: start;
+    stroke: white;
+    stroke-width: 4;
+    paint-order: stroke;
+}
+
+/* styling for optional footer */
+text.footer {
+    text-anchor: end;
+    dominant-baseline: auto;
+    stroke: white;
+    stroke-width: 4;
+    paint-order: stroke;
+}
+
+/* styling for combo tap, and key non-tap label text */
+text.combo, text.hold, text.shifted, text.left, text.right, text.tl, text.tr, text.bl, text.br {
+    font-size: 11px;
+}
+
+text.hold, text.bl, text.br {
+    text-anchor: middle;
+    dominant-baseline: auto;
+}
+
+text.shifted, text.tl, text.tr {
+    text-anchor: middle;
+    dominant-baseline: hanging;
+}
+
+text.left, text.tl, text.bl {
+    text-anchor: start;
+}
+
+text.right, text.tr, text.br {
+    text-anchor: end;
+}
+
+text.layer-activator {
+    text-decoration: underline;
+}
+
+/* styling for hold/shifted label text in combo box */
+text.combo.hold, text.combo.shifted, text.combo.left, text.combo.right {
+    font-size: 8px;
+}
+
+/* lighter symbol for transparent keys */
+text.trans {
+    fill: #7b7e81;
+}
+
+/* styling for combo dendrons */
+path.combo {
+    stroke-width: 1;
+    stroke: gray;
+    fill: none;
+}
+
+/* Start Tabler Icons Cleanup */
+/* cannot use height/width with glyphs */
+.icon-tabler &gt; path {
+    fill: inherit;
+    stroke: inherit;
+    stroke-width: 2;
+}
+/* hide tabler's default box */
+.icon-tabler &gt; path[stroke=&quot;none&quot;][fill=&quot;none&quot;] {
+    visibility: hidden;
+}
+/* End Tabler Icons Cleanup */
+
+@media (prefers-color-scheme: dark) {
+svg.keymap { fill: #d1d6db; }
+rect.key { fill: #3f4750; }
+rect.key, rect.combo { stroke: #60666c; }
+rect.combo, rect.combo-separate { fill: #1f3d7a; }
+rect.held, rect.combo.held { fill: #854747; }
+text.label, text.footer { stroke: black; }
+text.trans { fill: #7e8184; }
+path.combo { stroke: #7f7f7f; }
+
+}</style><style
+     id="style1-5">/* inherit to force styles through use tags */
+svg path {
+    fill: inherit;
+}
+
+/* font and background color specifications */
+svg.keymap {
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-size: 14px;
+    font-kerning: normal;
+    text-rendering: optimizeLegibility;
+    fill: #24292e;
+}
+
+/* default key styling */
+rect.key {
+    fill: #f6f8fa;
+}
+
+rect.key, rect.combo {
+    stroke: #c9cccf;
+    stroke-width: 1;
+}
+
+/* default key side styling, only used is draw_key_sides is set */
+rect.side {
+    filter: brightness(90%);
+}
+
+/* color accent for combo boxes */
+rect.combo, rect.combo-separate {
+    fill: #cdf;
+}
+
+/* color accent for held keys */
+rect.held, rect.combo.held {
+    fill: #fdd;
+}
+
+/* color accent for ghost (optional) keys */
+rect.ghost, rect.combo.ghost {
+    stroke-dasharray: 4, 4;
+    stroke-width: 2;
+}
+
+text {
+    text-anchor: middle;
+    dominant-baseline: middle;
+}
+
+/* styling for layer labels */
+text.label {
+    font-weight: bold;
+    text-anchor: start;
+    stroke: white;
+    stroke-width: 4;
+    paint-order: stroke;
+}
+
+/* styling for optional footer */
+text.footer {
+    text-anchor: end;
+    dominant-baseline: auto;
+    stroke: white;
+    stroke-width: 4;
+    paint-order: stroke;
+}
+
+/* styling for combo tap, and key non-tap label text */
+text.combo, text.hold, text.shifted, text.left, text.right, text.tl, text.tr, text.bl, text.br {
+    font-size: 11px;
+}
+
+text.hold, text.bl, text.br {
+    text-anchor: middle;
+    dominant-baseline: auto;
+}
+
+text.shifted, text.tl, text.tr {
+    text-anchor: middle;
+    dominant-baseline: hanging;
+}
+
+text.left, text.tl, text.bl {
+    text-anchor: start;
+}
+
+text.right, text.tr, text.br {
+    text-anchor: end;
+}
+
+text.layer-activator {
+    text-decoration: underline;
+}
+
+/* styling for hold/shifted label text in combo box */
+text.combo.hold, text.combo.shifted, text.combo.left, text.combo.right {
+    font-size: 8px;
+}
+
+/* lighter symbol for transparent keys */
+text.trans {
+    fill: #7b7e81;
+}
+
+/* styling for combo dendrons */
+path.combo {
+    stroke-width: 1;
+    stroke: gray;
+    fill: none;
+}
+
+/* Start Tabler Icons Cleanup */
+/* cannot use height/width with glyphs */
+.icon-tabler &gt; path {
+    fill: inherit;
+    stroke: inherit;
+    stroke-width: 2;
+}
+/* hide tabler's default box */
+.icon-tabler &gt; path[stroke=&quot;none&quot;][fill=&quot;none&quot;] {
+    visibility: hidden;
+}
+/* End Tabler Icons Cleanup */
+
+@media (prefers-color-scheme: dark) {
+svg.keymap { fill: #d1d6db; }
+rect.key { fill: #3f4750; }
+rect.key, rect.combo { stroke: #60666c; }
+rect.combo, rect.combo-separate { fill: #1f3d7a; }
+rect.held, rect.combo.held { fill: #854747; }
+text.label, text.footer { stroke: black; }
+text.trans { fill: #7e8184; }
+path.combo { stroke: #7f7f7f; }
+
+}</style><style
+     id="style1-6-5">/* inherit to force styles through use tags */
+svg path {
+    fill: inherit;
+}
+
+/* font and background color specifications */
+svg.keymap {
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-size: 14px;
+    font-kerning: normal;
+    text-rendering: optimizeLegibility;
+    fill: #24292e;
+}
+
+/* default key styling */
+rect.key {
+    fill: #f6f8fa;
+}
+
+rect.key, rect.combo {
+    stroke: #c9cccf;
+    stroke-width: 1;
+}
+
+/* default key side styling, only used is draw_key_sides is set */
+rect.side {
+    filter: brightness(90%);
+}
+
+/* color accent for combo boxes */
+rect.combo, rect.combo-separate {
+    fill: #cdf;
+}
+
+/* color accent for held keys */
+rect.held, rect.combo.held {
+    fill: #fdd;
+}
+
+/* color accent for ghost (optional) keys */
+rect.ghost, rect.combo.ghost {
+    stroke-dasharray: 4, 4;
+    stroke-width: 2;
+}
+
+text {
+    text-anchor: middle;
+    dominant-baseline: middle;
+}
+
+/* styling for layer labels */
+text.label {
+    font-weight: bold;
+    text-anchor: start;
+    stroke: white;
+    stroke-width: 4;
+    paint-order: stroke;
+}
+
+/* styling for optional footer */
+text.footer {
+    text-anchor: end;
+    dominant-baseline: auto;
+    stroke: white;
+    stroke-width: 4;
+    paint-order: stroke;
+}
+
+/* styling for combo tap, and key non-tap label text */
+text.combo, text.hold, text.shifted, text.left, text.right, text.tl, text.tr, text.bl, text.br {
+    font-size: 11px;
+}
+
+text.hold, text.bl, text.br {
+    text-anchor: middle;
+    dominant-baseline: auto;
+}
+
+text.shifted, text.tl, text.tr {
+    text-anchor: middle;
+    dominant-baseline: hanging;
+}
+
+text.left, text.tl, text.bl {
+    text-anchor: start;
+}
+
+text.right, text.tr, text.br {
+    text-anchor: end;
+}
+
+text.layer-activator {
+    text-decoration: underline;
+}
+
+/* styling for hold/shifted label text in combo box */
+text.combo.hold, text.combo.shifted, text.combo.left, text.combo.right {
+    font-size: 8px;
+}
+
+/* lighter symbol for transparent keys */
+text.trans {
+    fill: #7b7e81;
+}
+
+/* styling for combo dendrons */
+path.combo {
+    stroke-width: 1;
+    stroke: gray;
+    fill: none;
+}
+
+/* Start Tabler Icons Cleanup */
+/* cannot use height/width with glyphs */
+.icon-tabler &gt; path {
+    fill: inherit;
+    stroke: inherit;
+    stroke-width: 2;
+}
+/* hide tabler's default box */
+.icon-tabler &gt; path[stroke=&quot;none&quot;][fill=&quot;none&quot;] {
+    visibility: hidden;
+}
+/* End Tabler Icons Cleanup */
+
+@media (prefers-color-scheme: dark) {
+svg.keymap { fill: #d1d6db; }
+rect.key { fill: #3f4750; }
+rect.key, rect.combo { stroke: #60666c; }
+rect.combo, rect.combo-separate { fill: #1f3d7a; }
+rect.held, rect.combo.held { fill: #854747; }
+text.label, text.footer { stroke: black; }
+text.trans { fill: #7e8184; }
+path.combo { stroke: #7f7f7f; }
+
+}</style><style
+     id="style1-4-1">/* inherit to force styles through use tags */
+svg path {
+    fill: inherit;
+}
+
+/* font and background color specifications */
+svg.keymap {
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-size: 14px;
+    font-kerning: normal;
+    text-rendering: optimizeLegibility;
+    fill: #24292e;
+}
+
+/* default key styling */
+rect.key {
+    fill: #f6f8fa;
+}
+
+rect.key, rect.combo {
+    stroke: #c9cccf;
+    stroke-width: 1;
+}
+
+/* default key side styling, only used is draw_key_sides is set */
+rect.side {
+    filter: brightness(90%);
+}
+
+/* color accent for combo boxes */
+rect.combo, rect.combo-separate {
+    fill: #cdf;
+}
+
+/* color accent for held keys */
+rect.held, rect.combo.held {
+    fill: #fdd;
+}
+
+/* color accent for ghost (optional) keys */
+rect.ghost, rect.combo.ghost {
+    stroke-dasharray: 4, 4;
+    stroke-width: 2;
+}
+
+text {
+    text-anchor: middle;
+    dominant-baseline: middle;
+}
+
+/* styling for layer labels */
+text.label {
+    font-weight: bold;
+    text-anchor: start;
+    stroke: white;
+    stroke-width: 4;
+    paint-order: stroke;
+}
+
+/* styling for optional footer */
+text.footer {
+    text-anchor: end;
+    dominant-baseline: auto;
+    stroke: white;
+    stroke-width: 4;
+    paint-order: stroke;
+}
+
+/* styling for combo tap, and key non-tap label text */
+text.combo, text.hold, text.shifted, text.left, text.right, text.tl, text.tr, text.bl, text.br {
+    font-size: 11px;
+}
+
+text.hold, text.bl, text.br {
+    text-anchor: middle;
+    dominant-baseline: auto;
+}
+
+text.shifted, text.tl, text.tr {
+    text-anchor: middle;
+    dominant-baseline: hanging;
+}
+
+text.left, text.tl, text.bl {
+    text-anchor: start;
+}
+
+text.right, text.tr, text.br {
+    text-anchor: end;
+}
+
+text.layer-activator {
+    text-decoration: underline;
+}
+
+/* styling for hold/shifted label text in combo box */
+text.combo.hold, text.combo.shifted, text.combo.left, text.combo.right {
+    font-size: 8px;
+}
+
+/* lighter symbol for transparent keys */
+text.trans {
+    fill: #7b7e81;
+}
+
+/* styling for combo dendrons */
+path.combo {
+    stroke-width: 1;
+    stroke: gray;
+    fill: none;
+}
+
+/* Start Tabler Icons Cleanup */
+/* cannot use height/width with glyphs */
+.icon-tabler &gt; path {
+    fill: inherit;
+    stroke: inherit;
+    stroke-width: 2;
+}
+/* hide tabler's default box */
+.icon-tabler &gt; path[stroke=&quot;none&quot;][fill=&quot;none&quot;] {
+    visibility: hidden;
+}
+/* End Tabler Icons Cleanup */
+
+@media (prefers-color-scheme: dark) {
+svg.keymap { fill: #d1d6db; }
+rect.key { fill: #3f4750; }
+rect.key, rect.combo { stroke: #60666c; }
+rect.combo, rect.combo-separate { fill: #1f3d7a; }
+rect.held, rect.combo.held { fill: #854747; }
+text.label, text.footer { stroke: black; }
+text.trans { fill: #7e8184; }
+path.combo { stroke: #7f7f7f; }
+
+}</style><style
+     id="style1-2">/* inherit to force styles through use tags */
+svg path {
+    fill: inherit;
+}
+
+/* font and background color specifications */
+svg.keymap {
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-size: 14px;
+    font-kerning: normal;
+    text-rendering: optimizeLegibility;
+    fill: #24292e;
+}
+
+/* default key styling */
+rect.key {
+    fill: #f6f8fa;
+}
+
+rect.key, rect.combo {
+    stroke: #c9cccf;
+    stroke-width: 1;
+}
+
+/* default key side styling, only used is draw_key_sides is set */
+rect.side {
+    filter: brightness(90%);
+}
+
+/* color accent for combo boxes */
+rect.combo, rect.combo-separate {
+    fill: #cdf;
+}
+
+/* color accent for held keys */
+rect.held, rect.combo.held {
+    fill: #fdd;
+}
+
+/* color accent for ghost (optional) keys */
+rect.ghost, rect.combo.ghost {
+    stroke-dasharray: 4, 4;
+    stroke-width: 2;
+}
+
+text {
+    text-anchor: middle;
+    dominant-baseline: middle;
+}
+
+/* styling for layer labels */
+text.label {
+    font-weight: bold;
+    text-anchor: start;
+    stroke: white;
+    stroke-width: 4;
+    paint-order: stroke;
+}
+
+/* styling for optional footer */
+text.footer {
+    text-anchor: end;
+    dominant-baseline: auto;
+    stroke: white;
+    stroke-width: 4;
+    paint-order: stroke;
+}
+
+/* styling for combo tap, and key non-tap label text */
+text.combo, text.hold, text.shifted, text.left, text.right, text.tl, text.tr, text.bl, text.br {
+    font-size: 11px;
+}
+
+text.hold, text.bl, text.br {
+    text-anchor: middle;
+    dominant-baseline: auto;
+}
+
+text.shifted, text.tl, text.tr {
+    text-anchor: middle;
+    dominant-baseline: hanging;
+}
+
+text.left, text.tl, text.bl {
+    text-anchor: start;
+}
+
+text.right, text.tr, text.br {
+    text-anchor: end;
+}
+
+text.layer-activator {
+    text-decoration: underline;
+}
+
+/* styling for hold/shifted label text in combo box */
+text.combo.hold, text.combo.shifted, text.combo.left, text.combo.right {
+    font-size: 8px;
+}
+
+/* lighter symbol for transparent keys */
+text.trans {
+    fill: #7b7e81;
+}
+
+/* styling for combo dendrons */
+path.combo {
+    stroke-width: 1;
+    stroke: gray;
+    fill: none;
+}
+
+/* Start Tabler Icons Cleanup */
+/* cannot use height/width with glyphs */
+.icon-tabler &gt; path {
+    fill: inherit;
+    stroke: inherit;
+    stroke-width: 2;
+}
+/* hide tabler's default box */
+.icon-tabler &gt; path[stroke=&quot;none&quot;][fill=&quot;none&quot;] {
+    visibility: hidden;
+}
+/* End Tabler Icons Cleanup */
+
+@media (prefers-color-scheme: dark) {
+svg.keymap { fill: #d1d6db; }
+rect.key { fill: #3f4750; }
+rect.key, rect.combo { stroke: #60666c; }
+rect.combo, rect.combo-separate { fill: #1f3d7a; }
+rect.held, rect.combo.held { fill: #854747; }
+text.label, text.footer { stroke: black; }
+text.trans { fill: #7e8184; }
+path.combo { stroke: #7f7f7f; }
+
+}</style><style
+     id="style1-6-9">/* inherit to force styles through use tags */
+svg path {
+    fill: inherit;
+}
+
+/* font and background color specifications */
+svg.keymap {
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-size: 14px;
+    font-kerning: normal;
+    text-rendering: optimizeLegibility;
+    fill: #24292e;
+}
+
+/* default key styling */
+rect.key {
+    fill: #f6f8fa;
+}
+
+rect.key, rect.combo {
+    stroke: #c9cccf;
+    stroke-width: 1;
+}
+
+/* default key side styling, only used is draw_key_sides is set */
+rect.side {
+    filter: brightness(90%);
+}
+
+/* color accent for combo boxes */
+rect.combo, rect.combo-separate {
+    fill: #cdf;
+}
+
+/* color accent for held keys */
+rect.held, rect.combo.held {
+    fill: #fdd;
+}
+
+/* color accent for ghost (optional) keys */
+rect.ghost, rect.combo.ghost {
+    stroke-dasharray: 4, 4;
+    stroke-width: 2;
+}
+
+text {
+    text-anchor: middle;
+    dominant-baseline: middle;
+}
+
+/* styling for layer labels */
+text.label {
+    font-weight: bold;
+    text-anchor: start;
+    stroke: white;
+    stroke-width: 4;
+    paint-order: stroke;
+}
+
+/* styling for optional footer */
+text.footer {
+    text-anchor: end;
+    dominant-baseline: auto;
+    stroke: white;
+    stroke-width: 4;
+    paint-order: stroke;
+}
+
+/* styling for combo tap, and key non-tap label text */
+text.combo, text.hold, text.shifted, text.left, text.right, text.tl, text.tr, text.bl, text.br {
+    font-size: 11px;
+}
+
+text.hold, text.bl, text.br {
+    text-anchor: middle;
+    dominant-baseline: auto;
+}
+
+text.shifted, text.tl, text.tr {
+    text-anchor: middle;
+    dominant-baseline: hanging;
+}
+
+text.left, text.tl, text.bl {
+    text-anchor: start;
+}
+
+text.right, text.tr, text.br {
+    text-anchor: end;
+}
+
+text.layer-activator {
+    text-decoration: underline;
+}
+
+/* styling for hold/shifted label text in combo box */
+text.combo.hold, text.combo.shifted, text.combo.left, text.combo.right {
+    font-size: 8px;
+}
+
+/* lighter symbol for transparent keys */
+text.trans {
+    fill: #7b7e81;
+}
+
+/* styling for combo dendrons */
+path.combo {
+    stroke-width: 1;
+    stroke: gray;
+    fill: none;
+}
+
+/* Start Tabler Icons Cleanup */
+/* cannot use height/width with glyphs */
+.icon-tabler &gt; path {
+    fill: inherit;
+    stroke: inherit;
+    stroke-width: 2;
+}
+/* hide tabler's default box */
+.icon-tabler &gt; path[stroke=&quot;none&quot;][fill=&quot;none&quot;] {
+    visibility: hidden;
+}
+/* End Tabler Icons Cleanup */
+
+@media (prefers-color-scheme: dark) {
+svg.keymap { fill: #d1d6db; }
+rect.key { fill: #3f4750; }
+rect.key, rect.combo { stroke: #60666c; }
+rect.combo, rect.combo-separate { fill: #1f3d7a; }
+rect.held, rect.combo.held { fill: #854747; }
+text.label, text.footer { stroke: black; }
+text.trans { fill: #7e8184; }
+path.combo { stroke: #7f7f7f; }
+
+}</style><style
+     id="style1-4-6">/* inherit to force styles through use tags */
 svg path {
     fill: inherit;
 }
