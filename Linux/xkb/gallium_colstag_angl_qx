@@ -3,7 +3,7 @@ default partial
 xkb_symbols "basic" {
     include "us(basic)"
 
-    // Gallium Rowstag Angle Mod QX Reversed
+    // Gallium Colstag Angle Mod QX Reversed
 
     name[Group1] = "Gallium v2 (colstag)";
 
