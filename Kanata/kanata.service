@@ -5,7 +5,7 @@ After=local-fs.target
 
 [Service]
 ExecStartPre=/usr/bin/modprobe uinput
-ExecStart=/usr/bin/kanata -c /home/YOUR_USERNAME/.config/kanata/Gallium.cfg
+ExecStart=/usr/bin/kanata -c /home/$USER/.config/kanata/Gallium.cfg
 Restart=no
 
 [Install]
