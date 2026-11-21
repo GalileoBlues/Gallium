@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xkbConfigRegistry SYSTEM "xkb.dtd">
+<xkbConfigRegistry version="1.1">
+  <layoutList>
+    <layout>
+      <configItem>
+        <name>gallium_rowstag</name>
+        <shortDescription>gal</shortDescription>
+        <description>Gallium (Rowstag)</description>
+        <countryList>
+          <iso3166Id>US</iso3166Id>
+        </countryList>
+        <languageList>
+          <iso639Id>eng</iso639Id>  
+        </languageList>
+      </configItem>
+    </layout>
+    <layout>
+      <configItem>
+        <name>gallium_rowstag_angl</name>
+        <shortDescription>gal</shortDescription>
+        <description>Gallium (Rowstag Angl)</description>
+        <countryList>
+          <iso3166Id>US</iso3166Id>
+        </countryList>
+        <languageList>
+          <iso639Id>eng</iso639Id>  
+        </languageList>
+      </configItem>
+    </layout>
+    <layout>
+      <configItem>
+        <name>gallium_rowstag_angl_qx</name>
+        <shortDescription>gal</shortDescription>
+        <description>Gallium (Rowstag Angl QX)</description>
+        <countryList>
+          <iso3166Id>US</iso3166Id>
+        </countryList>
+        <languageList>
+          <iso639Id>eng</iso639Id>  
+        </languageList>
+      </configItem>
+    </layout>
+
+    <layout>
+      <configItem>
+        <name>gallium_colstag</name>
+        <shortDescription>gal</shortDescription>
+        <description>Gallium (Colstag)</description>
+        <countryList>
+          <iso3166Id>US</iso3166Id>
+        </countryList>
+        <languageList>
+          <iso639Id>eng</iso639Id>  
+        </languageList>
+      </configItem>
+    </layout>
+    <layout>
+      <configItem>
+        <name>gallium_colstag_angl</name>
+        <shortDescription>gal</shortDescription>
+        <description>Gallium (Colstag Angl)</description>
+        <countryList>
+          <iso3166Id>US</iso3166Id>
+        </countryList>
+        <languageList>
+          <iso639Id>eng</iso639Id>  
+        </languageList>
+      </configItem>
+    </layout>
+    <layout>
+      <configItem>
+        <name>gallium_colstag_angl_qx</name>
+        <shortDescription>gal</shortDescription>
+        <description>Gallium (Colstag Angl QX)</description>
+        <countryList>
+          <iso3166Id>US</iso3166Id>
+        </countryList>
+        <languageList>
+          <iso639Id>eng</iso639Id>  
+        </languageList>
+      </configItem>
+    </layout>
+  </layoutList>
+</xkbConfigRegistry>

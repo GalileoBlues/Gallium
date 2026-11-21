@@ -8,3 +8,16 @@
 7. In the XML files you will need to create either a new layout entry or a variant entry, navigate to and copy the entry you would like then edit it for your preferred gallium variant.
 8. In the LST files you can simply navigate to the bottom of the file and rename the layout named "custom" to the same name you gave your XML entry.
 9. To apply your layout in a graphical environment, use your compositor/DE's settings program or configuration file to select your desired gallium variant after editing your system's XKB configuration. Repeat steps 7-9 with `base.xml` and `base.lst` if your layout does not appear.
+
+# Immutable Distros (i.e. Bazzite, Fedora Silverblue)
+In cases where you cannot or do not want to edit the base filesystem, place your keyboard config in any of these directories, which are searched in the following order:
+- `$XDG_CONFIG_HOME/xkb/`
+- `$HOME/.config/xkb/` (if the `$XDG_CONFIG_HOME` is not defined), 
+- `$HOME/.xkb/`
+
+1. Inside your new directory, create a `symbols` folder
+2. Copy the contents of the provided `xkb` folder to it.
+3. Copy the `rules` folder into your directory. 
+4. The provided `evdev.xml` tags the layouts as English (`eng`) for the United States (`US`). GNOME Settings only lists a layout under your system language if both match your locale, so if your locale is not `en_US`, change `<iso3166Id>US</iso3166Id>` to your country code (for example `GB` for `en_GB`), and `<iso639Id>eng</iso639Id>` if your language is not English. Otherwise Gallium is listed under "Other".
+5. You may have to log out or restart your machine to apply these changes.
+6. Please review the steps after step 4 in the previous section and edit the provided `evdev.xml` file as needed to make things work for your setup!
