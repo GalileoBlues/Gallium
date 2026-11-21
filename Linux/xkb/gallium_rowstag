@@ -1,9 +1,8 @@
-
 default partial
 xkb_symbols "basic" {
     include "us(basic)"
 
-    name[Group1] = "Gallium v2 (rowstag)";
+    name[Group1] = "Gallium (rowstag)";
 
     key <AD01> {[ b, B ]};
     key <AD02> {[ l, L ]};

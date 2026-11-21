@@ -4,7 +4,7 @@ xkb_symbols "basic" {
 
     // Gallium Rowstag Angle Mod
 
-    name[Group1] = "Gallium v2 (rowstag)";
+    name[Group1] = "Gallium (rowstag, angle mod)";
 
     key <AD01> {[ b, B ]};
     key <AD02> {[ l, L ]};

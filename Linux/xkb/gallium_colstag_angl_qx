@@ -1,11 +1,10 @@
-
 default partial
 xkb_symbols "basic" {
     include "us(basic)"
 
     // Gallium Colstag Angle Mod QX Reversed
 
-    name[Group1] = "Gallium v2 (colstag)";
+    name[Group1] = "Gallium (colstag, angle mod, QX reversed)";
 
     key <AD01> {[ b, B ]};
     key <AD02> {[ l, L ]};
