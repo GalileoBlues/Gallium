@@ -2,7 +2,7 @@
 
 ## Gallium is a keyboard layout that takes inspiration from nerps and tries to improve on it in comfort and speed. Now on Monkeytype! 
 
-### This repo is currently undergoing some changes to bring all installations up to date. Currently Kanata is the most complete version which covers all variants and works on all operating systems. The Linux version currently provides both primary versions of Gallium (Rowstag and Colstag). The Windows and MacOS installations are out of date currently.
+### This repo is currently undergoing some changes to bring all installations up to date. Currently Kanata is the most complete version which covers all variants and works on all operating systems. The Linux and macOS versions currently provide both primary versions of Gallium (Rowstag and Colstag). The Windows installation is out of date currently.
 
 Gallium Rowstag (previously named Gallium v2): The Rowstag version was made to cater directly to the average user on a Row staggered keyboard based on feedback I received after the original version (Gallium Colstag) was made. Beforehand Gallium was made to be compatible with both Columnar staggered keyboards and Row staggered keyboards. The different layouts are simply a preference that may be slightly better on their respective keyboard types, you may still use either layout on either keyboard type.
 
@@ -17,7 +17,7 @@ Gallium Columnar Staggered:
 
 
 ## Operating systems
-Windows, Mac and Linux are supported in varying levels, I use Linux myself so I'm biased towards agnostic implementations like [Kanata](https://github.com/jtroo/kanata). (Windows package made by CTGAP, Mac package made by Dainternetdude and Linux XKB file made by GalileoBlues.)
+Windows, macOS and Linux are supported in varying levels, I use Linux myself so I'm biased towards agnostic implementations like [Kanata](https://github.com/jtroo/kanata). (Windows package made by CTGAP, macOS package made by Dainternetdude and Linux XKB file made by GalileoBlues.)
 
 ## Goals
 
