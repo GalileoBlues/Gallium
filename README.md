@@ -1,4 +1,5 @@
-# Gallium
+# ![The Gallium keyboard layout logo, which consists of a drawing of a key with the text ‘31Ga’ on it (Gallium is a chemical element whose atomic number is 31 and its symbol is ‘Ga’).](Images/Gallium_logo.svg) Gallium
+
 ## Gallium is a keyboard layout that takes inspiration from nerps and tries to improve on it in comfort and speed. Now on Monkeytype! 
 
 ### This repo is currently undergoing some changes to bring all installations up to date. Currently Kanata is the most complete version which covers all variants and works on all operating systems. The Linux version currently provides both primary versions of Gallium (Rowstag and Colstag). The Windows and MacOS installations are out of date currently.
